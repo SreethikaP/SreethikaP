@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sreethika Padala</h1>
-<p align="center">
+### Hi 👋, I'm Sreethika Padala
 🎓 Master's Student in Information Technology Management <br>
 💡 Aspiring Data Scientist | ML Enthusiast | Cloud + MLOps Explorer  
 💻 Currently building projects using OpenAI, LangChain, and RAG pipelines
-</p>
+
 
 ---
 
