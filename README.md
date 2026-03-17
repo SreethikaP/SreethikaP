@@ -1,32 +1,47 @@
 ### Hi 👋, I'm Sreethika Padala
-🎓 Master's Student in Information Technology Management <br>
-💡 Aspiring Data Scientist | ML Enthusiast | Cloud + MLOps Explorer  
-💻 Currently building projects using OpenAI, LangChain, and RAG pipelines
-
+🎓 Master's in Information Technology Management – Webster University  
+📊 Marketing Data Analyst | Data Analytics | Business Intelligence  
+💻 Passionate about turning complex data into actionable insights using SQL, Python, and BI tools
 
 ---
 
 ## 🚀 Projects
 
-### 🎵 [**Song Recommendation System**](https://github.com/SreethikaP/Song-Recommendation-System)
-A personalized music recommender built using NLP and Hugging Face Transformers.  
-🛠 **Tech Stack:** Python, Streamlit, Transformers, MLflow, Scikit-learn  
-📦 **Features:** Text vectorization, similarity scoring, Hugging Face deployment
+### 🛒 **E-Commerce Marketing Analytics Platform**
+A large-scale marketing analytics platform designed to analyze campaign performance, customer behavior, and retail media ROI for an e-commerce ecosystem.
+
+🛠 **Tech Stack:** Python, SQL, Google BigQuery, Power BI, Adobe Analytics, DV360  
+📦 **Features:**
+- ETL pipelines processing **500M+ daily ad impressions and clickstream events**
+- Multi-touch attribution model for campaign performance measurement
+- Audience segmentation and behavioral analytics
+- Real-time marketing performance dashboards
+- Campaign ROI and revenue forecasting models
 
 ---
 
-### 🎬 [**Movie Revenue & IMDb Predictor**](https://github.com/SreethikaP/Movie-Revenue-Prediction)
-ML models to predict box office revenue and IMDb ratings using feature engineering in R.  
-🛠 **Tech Stack:** R, Plumber API, Shiny, Regression, ggplot2  
-📦 **Features:** API deployment, statistical modeling, interactive UI
+### 💊 **Pharmaceutical Sales & Marketing Analytics Platform**
+A centralized analytics system built to analyze pharmaceutical sales, inventory, distributor performance, and promotional campaigns.
+
+🛠 **Tech Stack:** Python, SQL Server, Tableau, Power BI, Excel Power Query  
+📦 **Features:**
+- Processed **50M+ monthly sales and inventory records**
+- Time-series forecasting using **Prophet and ARIMA**
+- Promotional campaign effectiveness analysis
+- Market basket and distributor segmentation
+- Competitor benchmarking using external market data
 
 ---
 
-### 🔐 [**Network Security System using MLOps**](https://github.com/SreethikaP/Network-Security)
-An end-to-end threat detection pipeline using full MLOps lifecycle and AWS deployment.  
-🛠 **Tech Stack:** Python, FastAPI, AWS (EC2/S3/App Runner), MLflow, DagsHub, Docker  
-📦 **Features:** ETL → Model Training → CI/CD → Cloud Deployment  
-🔍 **Tracking:** [DagsHub Project](https://dagshub.com/SreethikaP/Network-Security)
+### 📊 **Customer Segmentation & Campaign Optimization**
+Analytics project focused on improving marketing efficiency through behavioral segmentation and predictive insights.
+
+🛠 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, BigQuery  
+📦 **Features:**
+- Behavioral segmentation models for high-value customers
+- Predictive analytics for customer acquisition and retention
+- Campaign engagement optimization
+- Data-driven marketing strategy insights
 
 ---
 
@@ -34,31 +49,52 @@ An end-to-end threat detection pipeline using full MLOps lifecycle and AWS deplo
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
-### 📊 Data & ML
+---
+
+### 📊 Data Analytics & Visualization
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
+
+---
+
+### 🧮 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn)
-![MLflow](https://img.shields.io/badge/-MLflow-2C2E83?style=flat&logo=mlflow)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikitlearn)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+---
 
-### 🧰 Tools & IDEs
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode)
+### ☁️ Cloud & Data Platforms
+![Google Cloud](https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat&logo=googlecloud)
+![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat&logo=googlecloud)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake)
+
+---
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?style=flat)
 
 ---
 
-## 📫 Contact Me
-- ✉️ padalasreethika@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sreethikapadala)  
-- 💻 [GitHub](https://github.com/SreethikaP) 
+## 📊 Analytics Expertise
+✔ Marketing Analytics  
+✔ Campaign Performance Measurement  
+✔ Customer Segmentation  
+✔ Predictive Analytics & Forecasting  
+✔ Multi-Touch Attribution Modeling  
+✔ A/B Testing & Experimentation  
+✔ KPI & Dashboard Development  
+✔ ETL Pipeline Development  
+
 ---
+
+## 📫 Contact Me
+- ✉️ padalasreethika6@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sreethikapadala  
+- 💻 GitHub: https://github.com/SreethikaP
